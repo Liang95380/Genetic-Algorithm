@@ -8,4 +8,6 @@ Run pokemon_game_AI.py to experience the training process.
 
 Run BestGen.py to watch how AI beat the game. 
 
+Video: https://www.youtube.com/watch?v=zgFJHJxtTOE&t=1s
+
 :)
